@@ -1,4 +1,3 @@
 input/*
 !input/.gitkeep
-output/*
-!output/.gitkeep
+.ipynb_checkpoints
